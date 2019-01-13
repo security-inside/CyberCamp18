@@ -8,13 +8,13 @@
 
 ```sh
 CiberCamp18:
-│   AWS_Security.pptx			    // Main presentation
-│   README.md				        // README file
+│   AWS_Security.pptx			// Main presentation
+│   README.md			        // README file
 │
 ├───cloudformation
-│       aws-guarduty.yaml		    // CF template to launch GuardDuty demo.
-│       aws-vpc.template		    // CF template to launch VPC demo.
-│       aws-waf.template		    // CF template to launch WAF demo.
+│       aws-guarduty.yaml		// CF template to launch GuardDuty demo.
+│       aws-vpc.template		// CF template to launch VPC demo.
+│       aws-waf.template		// CF template to launch WAF demo.
 │
 ├───kibana
 │       GuardDutyFindings.json		// Template to create Kibana dashboard to show GuardDuty findings.
@@ -25,5 +25,5 @@ CiberCamp18:
 └───videos
         AWS_certificate_manager.mov	// Demo with the how-to create a new certificate.
         AWS_create_account.mov		// Demo with the how-to create a new AWS account.
-        IAM_federation.mov		    // Demo with an aws access using a federated account.
+        IAM_federation.mov		// Demo with an aws access using a federated account.
 ```
