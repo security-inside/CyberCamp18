@@ -2,7 +2,7 @@
 
 # CyberCamp18
 
-[SecurityInside] repository with the materials used on my CyberCamp masterclass named "AWS Cloud Security - Máxima seguridad en la nube de Amazon".
+Repository with the materials used on my CyberCamp masterclass named "AWS Cloud Security - Máxima seguridad en la nube de Amazon".
 
 ### Folder structure
 
